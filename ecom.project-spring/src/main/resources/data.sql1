@@ -1,0 +1,8 @@
+INSERT INTO PRODUCT 
+(AVAILABLE, BRAND, CATEGORY, DESC, NAME, PRICE, QUANTITY, RELEASEDATE, IMAGENAME, IMAGETYPE, IMAGEDAT)
+VALUES
+(TRUE, 'Tata Motors', 'Cars', 'A compact SUV with excellent safety features and performance.', 'Tata Nexon', 750000.00, 50, '2024-01-15', NULL, NULL, NULL),
+(TRUE, 'Maruti Suzuki', 'Cars', 'A popular hatchback known for its fuel efficiency and reliability.', 'Maruti Suzuki Swift', 550000.00, 100, '2024-02-01', NULL, NULL, NULL),
+(TRUE, 'Hyundai', 'Cars', 'A stylish SUV with advanced features and comfortable interior.', 'Hyundai Creta', 950000.00, 75, '2024-03-01', NULL, NULL, NULL),
+(TRUE, 'Mahindra', 'Cars', 'A rugged off-road SUV with a powerful engine and modern amenities.', 'Mahindra Thar', 1200000.00, 30, '2024-04-01', NULL, NULL, NULL),
+(TRUE, 'Honda', 'Cars', 'A premium sedan with a sleek design and advanced safety features.', 'Honda City', 1100000.00, 60, '2024-05-01', NULL, NULL, NULL);
